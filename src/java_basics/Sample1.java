@@ -5,6 +5,13 @@ public class Sample1 {
 	{
 		System.out.println(5+5);
 	}
+public void sub()
+	{
+		System.out.println(5-5);
+	}
+
+
+	
 
 	public static void m1()
 	{
